@@ -1,4 +1,4 @@
-;  I did not write this. This was auto-generated
+;  I did not write this. This file was auto-generated
 
 ;  If you wanna watch me develop my IDE, the link is below:
 ;  https://www.youtube.com/playlist?list=PLnGFRnxAPFAHzIhA3V1vBvX21LhFJQq9c 
